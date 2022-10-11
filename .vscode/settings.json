@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "player": true,
+    "organizer.py": true
+  }
+}
